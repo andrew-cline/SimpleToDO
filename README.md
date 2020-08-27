@@ -25,8 +25,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<video src='https://i.gyazo.com/5b85f34924792a9ded5e3601e1671ded.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ <video width="320" height="240" controls>
+  <source src="https://i.gyazo.com/5b85f34924792a9ded5e3601e1671ded.mp4" type="video/mp4">
+</video> 
 
 GIF created with [Gyazo](https://gyazo.com/).
 
