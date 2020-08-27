@@ -31,7 +31,7 @@ GIF created with [Gyazo](https://gyazo.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had difficulty with xml layout designer and had issues with git.
 
 ## License
 
